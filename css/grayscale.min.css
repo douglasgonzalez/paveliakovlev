@@ -24,6 +24,7 @@
 .masthead h2{max-width:20rem;font-size:2rem;letter-spacing:.4rem}
 @media (min-width:768px){
 	.masthead h1{font-size:4rem;line-height:4rem}
+	.masthead{padding:5rem 0;}
 	}
 @media (min-width:992px){
 	.masthead{height:100vh;padding:0}
