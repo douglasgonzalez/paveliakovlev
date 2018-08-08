@@ -3,19 +3,19 @@
  * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
-#mainNav{min-height:56px;background-color:#fff}
-#mainNav .navbar-toggler{font-size:80%;padding:.75rem;color:#cc843d;border:1px solid #cc843d}
+#mainNav{min-height:36px;background-color:#fff}
+#mainNav .navbar-toggler{font-size:80%;padding:.5rem;color:#cc843d;border:1px solid #cc843d}
 #mainNav .navbar-toggler:focus{outline:0}
-#mainNav .navbar-brand{color:#161616;font-weight:700;padding:.9rem 0}
+#mainNav .navbar-brand{color:#161616;font-weight:700;padding:0rem 0}
 #mainNav .navbar-nav .nav-item:hover{color:fade(white,80%);outline:0;background-color:transparent}
 #mainNav .navbar-nav .nav-item:active,#mainNav .navbar-nav .nav-item:focus{outline:0;background-color:transparent}
  	@media (min-width:992px){
 	 	#mainNav{padding-top:0;padding-bottom:0;border-bottom:none;background-color:transparent;transition:background-color .3s ease-in-out}
 #mainNav .navbar-brand{padding:.5rem 0;color:rgba(255,255,255,.5)}
-#mainNav .nav-link{transition:none;padding:2rem 1.5rem;color:rgba(255,255,255,.5)}#mainNav .nav-link:hover{color:rgba(255,255,255,.75)}#mainNav .nav-link:active{color:#fff}
+#mainNav .nav-link{transition:none;padding:1rem 1.5rem;color:rgba(255,255,255,.5)}#mainNav .nav-link:hover{color:rgba(255,255,255,.75)}#mainNav .nav-link:active{color:#fff}
 #mainNav.navbar-shrink{background-color:#fff}
 #mainNav.navbar-shrink .navbar-brand{color:#161616}
-#mainNav.navbar-shrink .nav-link{color:#161616;padding:1.5rem 1.5rem 1.25rem;border-bottom:.25rem solid transparent}
+#mainNav.navbar-shrink .nav-link{color:#161616;padding:1rem 1.5rem 1.25rem;border-bottom:.25rem solid transparent}
 #mainNav.navbar-shrink .nav-link:hover{color:#cc843d}
 #mainNav.navbar-shrink .nav-link:active{color:#cc843d}
 #mainNav.navbar-shrink .nav-link.active{color:#cc843d;outline:0;border-bottom:.25rem solid #cc843d}}
